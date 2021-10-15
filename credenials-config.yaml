@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: frontend-secret-config
+type: Opaque
+data:
+  backendurl: aHR0cDovLzEwLjEwMC44MC44Mjo1MDAw
+  clientid: NTM2MjU5NjUxMDcxLWxrMTdmbGNjN2RtMG9vaHY5dHFkcm00a2lkcDV0Y3JjLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29t
+  secret: bTFPTXVSOHRuXy1pZ3JRdTZGTkprVjJI
